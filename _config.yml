@@ -1,0 +1,28 @@
+name: mysolarbid
+favicon: null
+layout_spectrum: 0.007501526270061731
+typography_spectrum: 0.18374441447667778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6734207412227988
+  lightness: 0.7435138116125017
+  saturation: 0.4858620339073241
+  rhythmicContrast: 0.172055684030056
+purpose: []
